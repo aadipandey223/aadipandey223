@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 # 🌟I'm Aditya
 
-Backend & Systems Engineer in the making.  
+AI-ML, Backend & Systems Engineer in the making.  
 Focused on fundamentals, performance, and correctness.
 
 ---
@@ -34,7 +34,8 @@ Focused on fundamentals, performance, and correctness.
 - Build **backend systems** with clean data flow and solid architecture  
 - Practice **DSA** with emphasis on optimal time & space complexity  
 - Explore **compiler design** — ASTs, IR, code generation  
-- Learn **DevOps & networking** from a systems perspective  
+- Learn **DevOps & networking** from a systems perspective
+- Explore **Agents and gen-ai** from a systems perspective
 
 ---
 
@@ -42,7 +43,8 @@ Focused on fundamentals, performance, and correctness.
 - Backend engineering fundamentals  
 - Data structures & algorithms (problem → pattern → optimization)  
 - Compiler internals and low-level abstractions  
-- Production-grade thinking, not toy projects  
+- Production-grade thinking, not toy projects
+- Lang-chain/graph 
 
 ---
 
@@ -50,7 +52,9 @@ Focused on fundamentals, performance, and correctness.
 **Languages:** 
 - C++
 - C
-- Python  
+- Python
+- SQL
+- Java
 
 **Core CS:** 
 - DSA
@@ -67,7 +71,15 @@ Focused on fundamentals, performance, and correctness.
 **Tools:** 
 - Git
 - Linux
-- Debuggers  
+- Debuggers
+- Docker
+- AWS
+- Lingo
+- Supabase
+- Vercel
+- Railway
+- Requestly
+- WSL
 
 ---
 
@@ -79,5 +91,4 @@ Focused on fundamentals, performance, and correctness.
 ---
 
 ## Contact
-- GitHub: [@your-username](https://github.com/your-username)  
-- LinkedIn: [your-link](https://www.linkedin.com/in/your-link) (optional)
+- Portfolio: https://aadipandey223.github.io/Portfolio/
